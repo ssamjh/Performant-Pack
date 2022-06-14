@@ -1,0 +1,13 @@
+name = "Performant Pack"
+author = "ssamjh"
+version = "1.19"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b90a4abdfe2a587ebfcf5355bf7df72723dbbfc0f16876a221d8f4a28add2eb0"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.1-beta.1"
